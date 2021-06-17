@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 你好!
 
-You can use the [editor on GitHub](https://github.com/sujeongHeo401/XiangNe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+我 喜欢 看 电视剧.
+我是电脑工程师
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+最近 正在 看 名为"紧凑的共同住宅" 的电视剧。[电视剧](https://namu.wiki/w/%EA%B0%84%20%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%20%EB%8F%99%EA%B1%B0(%EB%93%9C%EB%9D%BC%EB%A7%88))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://github.com/sujeongHeo401/XiangNe/blob/main/DFG.png)
+
+是男主人公的照片
+
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 自我介绍
+- 我是韩国人。
+- 我是电脑工程师 (use javascript..)
 
-- Bulleted
-- List
+# 我很孤独
+- 请 联系 我。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sujeongHeo401/XiangNe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 联系方式
+gotnwjd40@gmail.com
